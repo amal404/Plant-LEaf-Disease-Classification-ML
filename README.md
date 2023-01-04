@@ -1,11 +1,9 @@
-# Image Classification App using Teachable Machine
-Learn how to make an Android app that can classify images fast and with high accuracy.
+# Plant-Leaf-Disease-Classification-ML-Android-App
 
-We'll use Google's Teachable Machine to train a machine learning model on common objects, then deploy a TensorFlow Lite model in our Android app.
+Plant Leaf Disease classification using machine learning. 
 
-Check out the [tutorial](https://youtu.be/jhGm4KDafKU).
+In Machine learning we use VGG16 architecture for the prepearation of the model. This is the source code of Android Appliction
 
-## [Tutorial](https://youtu.be/jhGm4KDafKU)
 
 <p align="center">
 <!--   [<img src="https://github.com/IJ-Apps/Image-Classification-App-with-Teachable-Machine/blob/main/thumbnail.png" width="90%"/>](https://youtu.be/jhGm4KDafKU) -->
